@@ -1,15 +1,15 @@
-title : Site Title
-tagline: Site Tagline
+title : Grupo de Pesquisa Multidisciplinar em Cancerologia Pediátrica
+tagline: oncologia, farmacologia, farmácia, medicina
 author :
-  name : First-name Last-name
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Juvenia Fontenele & Francisco Felix
+  email : heldercfelix@gmail.com
+  github : fhcflx
+  twitter : fhcflx
   feedburner : feedname
 
 navigation :
-  - archive
+  - arquivo
   - tags
-  - categories
-  - pages
-  - about
+  - categorias
+  - paginas
+  - sobre
