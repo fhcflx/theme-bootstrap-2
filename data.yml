@@ -1,15 +1,15 @@
-title : Grupo de Pesquisa Multidisciplinar em Cancerologia Pediátrica
-tagline: oncologia, farmacologia, farmácia, medicina
+title : Neuro-oncology Science
+tagline: oncology, pharmacology, personalized medicine
 author :
-  name : Juvenia Fontenele & Francisco Felix
-  email : heldercfelix@gmail.com
-  github : fhcflx
-  twitter : fhcflx
+  name : Francisco Felix
+  email : ciencia4medica@outlook.com
+  github : 
+  twitter : ciencia4medica
   feedburner : feedname
 
 navigation :
-  - arquivo
+  - archive
   - tags
-  - categorias
-  - paginas
-  - sobre
+  - categories
+  - pages
+  - about
